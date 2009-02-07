@@ -1,0 +1,9 @@
+#summary Board support status for the Spartan-3E Starter Kit
+
+= Board support status for the Spartan-3E Starter Kit =
+
+  * Serial port
+  * PS/2 Keyboard
+  * VGA
+  * Switches/Buttons/Encoder/LEDs
+  * LCD
