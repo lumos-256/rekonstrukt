@@ -11,4 +11,5 @@ My near-term plans for rekonstrukt:
   * Add driver for MAX6957
   * Support NOR Flash so that Forth does not occupy block RAM
   * Implement MIDI sequencer in hardware
+  * Vectorize console I/O so that VDU and keyboard can be used as Console
   * Port to [http://www.em.avnet.com/spartan3a-evl Avnet Spartan-3A Evaluation Kit]
