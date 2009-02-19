@@ -2,7 +2,7 @@
 
 These devices of the [http://www.xilinx.com/products/devkits/HW-SPAR3E-SK-US-G.htm Spartan-3E Starter Kit] are currently supported:
 
-  * Serial port
+  * Serial port (fixed at 19200 bps, 8n1)
   * PS/2 Keyboard
   * VGA
   * Switches/Buttons/Encoder/LEDs
