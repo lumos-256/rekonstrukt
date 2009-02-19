@@ -1,6 +1,6 @@
 #summary Board support status for the Spartan-3E Starter Kit
 
-These devices are currently supported:
+These devices of the [http://www.xilinx.com/products/devkits/HW-SPAR3E-SK-US-G.htm Spartan-3E Starter Kit] are currently supported:
 
   * Serial port
   * PS/2 Keyboard
