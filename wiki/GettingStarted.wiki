@@ -83,4 +83,4 @@ The forth/ subdirectory of the rekonstrukt tree contains a Makefile that shows h
 
 = Compiling the usim 6809 simulator =
 
-In order to test out Forth code on a PC, the usim mc6809 simulator written by Ray Bellis can be used.  The source to the simulator is included in the rekonstrukt/usim/ directory.  It has been tested on FreeBSD/x86 and Windows using cygwin.  The virtual hardware that is simulated by usim currently includes only the UART.  usim is written in C++ und rather easy to extend, so it is easy to extend for other hardware connected to the FPGA if required.
+In order to test out Forth code on a PC, the usim mc6809 simulator written by Ray Bellis can be used.  The source to the simulator is included in the rekonstrukt/usim/ directory.  It has been tested on FreeBSD/x86, Windows using cygwin and MacOS X.  The virtual hardware that is simulated by usim currently includes only the UART.  usim is written in C++ und rather easy to extend, so it is easy to extend for other hardware connected to the FPGA if required.
