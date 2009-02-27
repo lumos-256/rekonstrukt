@@ -2,7 +2,7 @@
 
 = Introduction =
 
-My aim is to provide a FPGA based computing environment that can easily be changed on all levels and allows for interactive hardware exploration (i.e. no compile-upload-debug cycle).
+My goal is to provide a FPGA based computing environment that can easily be changed on all levels and allows for interactive hardware exploration (i.e. no compile-upload-debug cycle).
 
 = Prerequisites =
 
