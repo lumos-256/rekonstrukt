@@ -79,7 +79,7 @@ In order to modify the rekonstrukt hardware, the top level VHDL file must be edi
 
 If you want to change the Maisforth ROM, for example to include hardware specific words in the ROM code, you'll have to cross compile Maisforth for System09.  [http://www.jwdt.com/~paysan/gforth.html GForth] works as cross compiler.  I also had some success with WinForth, but some words did not get compiled with it.  GForth runs fine on Windows as well as Unix/Linux, so I recommend using that.
 
-The forth/ subdirectory of the rekonstrukt tree contains a Makefile that shows how cross compilation works.  It also contains targets to recreate the ROM VHDL files as well as .MEM files that can be used to update the ROM image without resynthesizing the hardware.
+The maisforth/ subdirectory of the rekonstrukt tree contains a Makefile thatcross compiles Maisforth.  It also contains targets to recreate the ROM VHDL files as well as .MEM files that can be used to update the ROM image without resynthesizing the hardware.
 
 = Compiling the usim 6809 simulator =
 
