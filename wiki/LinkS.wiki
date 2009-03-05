@@ -1,0 +1,13 @@
+#summary Assorted links.
+
+= MC6809 family =
+
+= FPGA hardware =
+
+  * [http://www.xilinx.com/support/documentation/boards_and_kits/ug230.pdf Xilinx Spartan-3E Starter Kit User Guide]
+  * [http://www.xilinx.com/support/documentation/data_sheets/ds312.pdf Spartan-3E FPGA Family: Complete Data Sheet] 
+  * [http://www.files.em.avnet.com/files/177/xlx_s3a_evl_ug_rev2_112008.pdf Avnet Spartan™-3A Evaluation Kit User Guide]
+
+= Chips =
+
+  * [http://www.numonyx.com/Documents/Datasheets/M25P16.pdf M25P16 16 MBit Serial Flash]
