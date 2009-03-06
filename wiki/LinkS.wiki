@@ -16,8 +16,7 @@
 
   * [http://www.numonyx.com/Documents/Datasheets/M25P16.pdf M25P16 16 MBit Serial Flash]
   * [http://www.maxim-ic.com/quick_view2.cfm/qv_pk/3365 MAX6957 4-Wire-Interfaced, 2.5V to 5.5V, 20-Port and 28-Port LED Display Driver and I/O Expander]
-  * [http://download.cypress.com.edgesuite.net/design_resources/datasheets/contents/cy7c67300_8.pdf CY7C67300 EZ-Host™ Programmable Embedded USB Host and
-Peripheral Controller]
+  * [http://download.cypress.com.edgesuite.net/design_resources/datasheets/contents/cy7c67300_8.pdf CY7C67300 EZ-Host™ Programmable Embedded USB Host and Peripheral Controller]
   * [http://www.analog.com/en/digital-to-analog-converters/audio-da-converters/AD1934/products/product.html AD1934:  8-Channel DAC with PLL]
 
 
