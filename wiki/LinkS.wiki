@@ -5,6 +5,12 @@
   * [http://www.complang.tuwien.ac.at/forth/dpans-html/dpans.htm ANS FORTH Standard]
   * [http://www.complang.tuwien.ac.at/forth/gforth/Docs-html/ gforth Manual]
   * [http://www.forth.com/starting-forth/ Starting FORTH by Leo Brodie]
+  * [http://home.hccnet.nl/a.w.m.van.der.horst/forthlectures.html Forth lectures by Albert van der Horst]
+
+= MC6809 =
+
+  * [http://www.burgins.com/m6809.html mc6809 Instruction Set Summary]
+  * [http://www.maddes.net/m6809pm/ MC6809-MC6809E 8-Bit Microprocessor Programming Manual]
 
 = FPGA hardware =
 
